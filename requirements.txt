@@ -1,0 +1,4 @@
+rouge==1.0.0
+tensor2tensor==1.15.4
+tensorflow==1.15.2
+docopt==0.6.2

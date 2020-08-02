@@ -1,0 +1,7 @@
+{
+    "train_file":"../data/Sandwish-intervals.json",
+    "valid_file":"../data/Sandwish-intervals.json",
+    "on_large_data": 100, "batch_size": 10000,
+    "nodesThreshold": 2000,  "splitTest": 10,
+    "vocab_dir":"./config/vocabInfo.json"
+}

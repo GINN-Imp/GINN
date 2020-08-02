@@ -1,0 +1,4 @@
+{
+    "train_file":"../data/intervals-AST.json",
+    "valid_file":"../data/intervals-AST.json"
+}
